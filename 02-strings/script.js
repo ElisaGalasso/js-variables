@@ -10,6 +10,14 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let number = ('5')
+console.log(number);
+
+let text = ('Ciao')
+console.log(text);
+
+let bool = ('true')
+console.log(bool);
 
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
